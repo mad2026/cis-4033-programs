@@ -1,1 +1,1 @@
-SELECT * FROM MasonDavenportProg3CustomerInfo.customers;
+SELECT * FROM CIS4033Midterm.myTeachers;
