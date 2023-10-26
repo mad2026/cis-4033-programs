@@ -1,1 +1,1 @@
-SELECT * FROM CIS4033Midterm.myTeachers;
+SELECT * FROM mis3053schooldb.classrooms;
